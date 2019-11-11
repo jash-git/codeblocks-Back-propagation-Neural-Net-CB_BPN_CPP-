@@ -13,3 +13,4 @@ http://cilab.csie.ncu.edu.tw/course/nn/
 	03_CB_BPN_CPP:我自己把VC範例改成codeblocks的跨平台專案
 	04_CB_BPN_CPP:類神經網路模擬七段顯示器轉二進位顯示電路
 	05_CB_BPN_CPP:可以將訓練結果儲存起來，並且在下次直接載入參數直接使用(不用每次重新訓練，同OPENCV=可商用)
+		七段 <-->二進位

@@ -1,58 +1,29 @@
 # depslib dependency file v1.0
-1520165516 source:c:\users\usernb\desktop\cb_bpn_cpp\main.cpp
+1573449943 source:c:\users\jashliao\desktop\cb_bpn_cpp\bpnet.cpp
+	"BpNet.h"
 	<iostream>
 
-1520166081 source:c:\users\usernb\desktop\cb_bpn_cpp\cbackprop.cpp
-	"CBackProp.h"
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-	<math.h>
-
-1520165757 c:\users\usernb\desktop\cb_bpn_cpp\cbackprop.h
-
-1573103979 source:c:\users\jashliao\desktop\codeblocks-back-propagation-neural-net-cb_bpn_cpp-\04_cb_bpn_cpp\cbackprop.cpp
-	"CBackProp.h"
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-	<math.h>
-
-1573103979 c:\users\jashliao\desktop\codeblocks-back-propagation-neural-net-cb_bpn_cpp-\04_cb_bpn_cpp\cbackprop.h
-
-1573105954 source:c:\users\jashliao\desktop\codeblocks-back-propagation-neural-net-cb_bpn_cpp-\04_cb_bpn_cpp\main.cpp
-	<iostream>
-	<cstdio>
-	"CBackProp.h"
-
-1573202492 source:c:\users\jashliao\desktop\codeblocks-back-propagation-neural-net-cb_bpn_cpp-\05_cb_bpn_cpp\main.cpp
-	<iostream>
-	<cstdio>
+1573453022 c:\users\jashliao\desktop\cb_bpn_cpp\bpnet.h
 	<cmath>
-	"CBackProp.h"
-
-1573202159 c:\users\jashliao\desktop\codeblocks-back-propagation-neural-net-cb_bpn_cpp-\05_cb_bpn_cpp\cbackprop.h
-
-1573203202 source:c:\users\jashliao\desktop\codeblocks-back-propagation-neural-net-cb_bpn_cpp-\05_cb_bpn_cpp\cbackprop.cpp
-	"CBackProp.h"
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-	<math.h>
-
-1573223938 source:c:\users\user\desktop\05_cb_bpn_cpp\main.cpp
-	<iostream>
+	<cstdlib>
+	<ctime>
 	<cstdio>
+
+1573453022 source:c:\users\jashliao\desktop\cb_bpn_cpp\main.cpp
+	<iostream>
+	"BpNet.h"
+
+1573449943 source:c:\users\jashliao\desktop\05_cb_bpn_cpp\bpnet.cpp
+	"BpNet.h"
+	<iostream>
+
+1573453022 c:\users\jashliao\desktop\05_cb_bpn_cpp\bpnet.h
 	<cmath>
-	"CBackProp.h"
+	<cstdlib>
+	<ctime>
+	<cstdio>
 
-1573202159 c:\users\user\desktop\05_cb_bpn_cpp\cbackprop.h
-
-1573225536 source:c:\users\user\desktop\05_cb_bpn_cpp\cbackprop.cpp
-	"CBackProp.h"
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-	<math.h>
-	<string.h>
+1573454858 source:c:\users\jashliao\desktop\05_cb_bpn_cpp\main.cpp
+	<iostream>
+	"BpNet.h"
 
