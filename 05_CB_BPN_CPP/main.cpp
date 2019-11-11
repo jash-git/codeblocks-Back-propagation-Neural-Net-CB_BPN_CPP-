@@ -81,7 +81,7 @@ int main()
     long times=0;
     if(blntrainning)
     {
-        while((bp.error>0.0001)||(times>100000000))
+        while((bp.error>0.0001)&&(times<100000000))
         {
             bp.e=0.0;
             times++;
